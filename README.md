@@ -4,6 +4,7 @@ There are tons of tutorials available online for learning various cs topics, but
 
 ## Languages
 * [java](http://www.cse.iitd.ac.in/~bagchi/courses/supplements/JavaLabModule2018.pdf)
+* [java8](https://winterbe.com/posts/2014/03/16/java-8-tutorial/)
 
 ## Web development
 * [HTML, CSS, Bootstrap, JavaScript and jQuery](https://buildmedia.readthedocs.org/media/pdf/htmlguide/latest/htmlguide.pdf)
