@@ -9,4 +9,5 @@ There are tons of tutorials available online for learning various cs topics, but
 ## Web development
 * [HTML, CSS, Bootstrap, JavaScript and jQuery](https://buildmedia.readthedocs.org/media/pdf/htmlguide/latest/htmlguide.pdf)
 
-
+## Design Practices
+* [Aspect Oriented Programming](https://github.com/google/guice/wiki/AOP)
